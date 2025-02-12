@@ -7,7 +7,7 @@
 ## 🔥 Interests & Skills
 - **Programming Languages:** C++, Java  
 - **AI & ML:** Deep Learning, Reinforcement Learning
-- 
+  
 ## 📫 Connect with Me
 - **GitHub:** [vinaykrishnachetty](https://github.com/Vinay-beast)    
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/tanguturi-vinay-krishna-chetty-5b3606277/)  
