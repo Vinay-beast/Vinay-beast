@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanguturi Vinay Krishna Chetty!
 
-<!--
-**Vinay-beast/Vinay-beast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2nd Year CSE (AI) Student** at **Amrita Vishwa Vidyapeetham, Coimbatore**  
+🏡 **Hometown:** Nellore, Andhra Pradesh  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Reinforcement Learning**  
+💻 Exploring **GNU Radio, IoT, and Real-Time Adaptive Systems**  
 
-Here are some ideas to get you started:
+## 🔥 Interests & Skills
+- **Programming Languages:** C++, Python  
+- **AI & ML:** Deep Learning, Reinforcement Learning  
+- **IoT & Communication Systems:** Adaptive Channel Estimation, Embedded Systems  
+- **Tools & Frameworks:** PyTorch, TensorFlow, GNU Radio, MATLAB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **Real-Time Adaptive Channel Estimation using Reinforcement Learning**  
+- **IoT-based Smart Systems**  
+
+## 📫 Connect with Me
+- **GitHub:** [vinaykrishnachetty](https://github.com/your-github-username)  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **Email:** your.email@example.com  
+
+🚀 Always open to collaborations and new learning opportunities!  
