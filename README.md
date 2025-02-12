@@ -9,7 +9,7 @@
 - **AI & ML:** Deep Learning, Reinforcement Learning
 - 
 ## 📫 Connect with Me
-- **GitHub:** [vinaykrishnachetty]((https://github.com/Vinay-beast))  
+- **GitHub:** [vinaykrishnachetty](https://github.com/Vinay-beast)    
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tanguturi-vinay-krishna-chetty-5b3606277/)  
 - **Email:** vinayk4607@gmail.com  
 
