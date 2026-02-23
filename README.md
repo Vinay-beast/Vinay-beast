@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Tanguturi Vinay Krishna Chetty!
 
-🎓 **2nd Year CSE (AI) Student** at **Amrita Vishwa Vidyapeetham, Coimbatore**   
-💡 Passionate about **Artificial Intelligence, Machine Learning, and Reinforcement Learning**   
+🎓 **3rd Year CSE (AI) Student** at **Amrita Vishwa Vidyapeetham, Coimbatore**   
+💡 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning and full stack web devlopment**   
 
 ## 🔥 Interests & Skills
-- **Programming Languages:** C++, Java  
-- **AI & ML:** Deep Learning, Reinforcement Learning
+- **Programming Languages:** Python, Java  
+- **AI & ML:** Deep Learning, Deep Learning
   
 ## 📫 Connect with Me
 - **GitHub:** [vinaykrishnachetty](https://github.com/Vinay-beast)    
