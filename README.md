@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanguturi Vinay Krishna Chetty!
 
-🎓 **3rd Year CSE (AI) Student** at **Amrita Vishwa Vidyapeetham, Coimbatore**   
+🎓 **4th Year CSE (AI) Student** at **Amrita Vishwa Vidyapeetham, Coimbatore**   
 💡 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning and full stack web devlopment**   
 
 ## 🔥 Interests & Skills
