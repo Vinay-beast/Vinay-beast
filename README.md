@@ -10,6 +10,6 @@
 ## 📫 Connect with Me
 - **GitHub:** [vinaykrishnachetty](https://github.com/Vinay-beast)    
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/tanguturi-vinay-krishna-chetty-5b3606277/)  
-- **Email:** vinayk4607@gmail.com  
+- **Email:** vinayk.tanguturi@gmail.com  
 
 🚀 Always open to collaborations and new learning opportunities!  
