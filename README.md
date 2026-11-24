@@ -5,7 +5,7 @@
 
 ## 🔥 Interests & Skills
 - **Programming Languages:** Python, Java  
-- **AI & ML:** Deep Learning, Deep Learning
+- **AI & ML:** Deep Learning
   
 ## 📫 Connect with Me
 - **GitHub:** [vinaykrishnachetty](https://github.com/Vinay-beast)    
